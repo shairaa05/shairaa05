@@ -5,7 +5,7 @@ Data Analyst | Python Enthusiast | Lifelong Learner
 ---------------------------------------------------
 
 
-👋 Hi there! I’m Shaira, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas! --please add more info with your personal infromation --
+👋 Hi there! I’m Shaira, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas!
 
 ## About Me 🎓 
 I bring a unique blend of analytical skills and business acumen that enables me to transform complex data into actionable insights. With a strong statistical analysis and data visualisation foundation, I excel at identifying trends and patterns that drive strategic decision-making.
